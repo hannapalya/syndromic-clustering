@@ -82,4 +82,4 @@ The project explores two main clustering strategies:
 - Computational optimization required for real-time use
 
 
-This is an active research project. Methods and implementations will continue to change. If you're interested in discussing this work, email hannapalya squiggle gmail point com (replacing squiggle and point with their symbol alternatives).
+This is an active research project. Methods and implementations will continue to change. If you're interested in discussing this work, email me at firstnamelastname @gmail.com.
