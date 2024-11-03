@@ -83,27 +83,9 @@ The project explores vectorization and clustering strategies, of which two examp
 This is an active research project. Methods and implementations will continue to change. If you're interested in discussing this work, email me at hannapalya@gmail.com.
 
 ## References
-@article{johnson2023mimiciv,
-    title={MIMIC-IV (version 2.2)},
-    author={Johnson, Alistair and Bulgarelli, Lucas and Pollard, Tom and Horng, Steven and Celi, Leo Anthony and Mark, Roger},
-    journal={PhysioNet},
-    year={2023},
-    doi={10.13026/6mm1-wy84}
-}
-@inproceedings{alsentzer2019publicly,
-    title={Publicly Available Clinical BERT Embeddings},
-    author={Alsentzer, Emily and Murphy, John and Boag, William and Weng, Wei-Hung and Jin, Di and Naumann, Tristan and McDermott, Matthew},
-    booktitle={Proceedings of the 2nd Clinical Natural Language Processing Workshop},
-    pages={72--78},
-    year={2019},
-    doi={10.18653/v1/W19-1909}
-}
+[1] Johnson, A., Bulgarelli, L., Pollard, T., Horng, S., Celi, L. A., & Mark, R. (2023). MIMIC-IV (version 2.2). PhysioNet. https://doi.org/10.13026/6mm1-wy84
 
-@software{neill2023presyndromic,
-    title={Pre-Syndromic Surveillance},
-    author={Neill, Daniel B.},
-    year={2023},
-    publisher={GitHub},
-    url={https://github.com/danielbneill/pre-syndromic-surveillance}
-}
+[2] Alsentzer, E., Murphy, J., Boag, W., Weng, W., Jin, D., Naumann, T., & McDermott, M. (2019). Publicly Available Clinical BERT Embeddings. In Proceedings of the 2nd Clinical Natural Language Processing Workshop (pp. 72-78). https://doi.org/10.18653/v1/W19-1909
+
+[3] Neill, D. B. (2023). Pre-Syndromic Surveillance. GitHub. https://github.com/danielbneill/pre-syndromic-surveillance
 
